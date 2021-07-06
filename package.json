@@ -1,15 +1,23 @@
 {
   "name": "nucampsite",
   "version": "1.0.0",
-  "description": "This is a website for the fictional campsites review site Nucamp",
+  "description": "",
   "main": "index.html",
   "scripts": {
     "lite": "lite-server",
     "start": "npm run lite",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinarzuaga/nucampsite.git"
+  },
   "author": "Martin Arzuaga",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/martinarzuaga/nucampsite/issues"
+  },
+  "homepage": "https://github.com/martinarzuaga/nucampsite#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
   },
